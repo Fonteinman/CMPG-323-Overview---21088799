@@ -1,5 +1,4 @@
 # CMPG-323-Overview---21088799
-CMPG323 - Project1
 
 ## Repositories per project:
 Project 1- Create Public Github Repository  
